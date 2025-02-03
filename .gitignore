@@ -1,3 +1,8 @@
+# Firebase service account key
 safkaa-e280f-firebase-adminsdk-v9l0g-edf6851691.json
+
+# Firebase configuration file
 firebase.json
+
+# Firebase.js file
 src/Components/firebase.js
