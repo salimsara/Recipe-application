@@ -1,4 +1,4 @@
-# Recipe application
+# Safkaa - Recipe web application
 
 #### Group members: Sara Salim, Nasra Diriye & Angelina Vasileva
 
